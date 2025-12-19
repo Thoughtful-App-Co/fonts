@@ -54,7 +54,7 @@ Each font folder contains:
 
 (c) 2025 Erikk Shupp / Thoughtful App Co.
 
-[Specify license per font or globally]
+SIL 1.1
 
 ---
 
@@ -62,4 +62,5 @@ Each font folder contains:
 
 Erikk Shupp  
 Thoughtful App Co.  
-[website] | [email]
+www.shupp.dev && www.thoughtfulapp.co
+erikk@shupp.dev && launch@thoughtfulapp.co
