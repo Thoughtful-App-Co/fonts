@@ -7,7 +7,7 @@ Custom typefaces by Erikk Shupp / Thoughtful App Co. 2025
 ## Shupp
 
 A handwritten, casual typeface with a hand scribbled, w/ a thick sharpie pen type feel
-![Shupp Specimen](./specimens/shupp_specimen.png)
+![Shupp Specimen](../specimens/shupp_specimen.png)
 
 ### Details
 
